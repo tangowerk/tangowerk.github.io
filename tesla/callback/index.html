@@ -1,0 +1,13 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>tangoOS</title>
+<p>Returning to tangoOS …</p>
+<p><a id="open" href="#">Open tangoOS</a></p>
+<script>
+  // Fallback when the Android App Link is not verified: hand the query to the app via an intent URL.
+  var url = "intent://tangowerk.github.io/tesla/callback" + location.search +
+    "#Intent;scheme=https;package=dev.kc.tango;end";
+  document.getElementById("open").href = url;
+  location.href = url;
+</script>
