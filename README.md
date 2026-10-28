@@ -1,3 +1,3 @@
 # tangowerk.github.io
 
-Hosts the public key and Android asset links for the tangoOS Tesla integration.
+GitHub Pages site of tangowerk. Currently empty; the former tangoOS Tesla Fleet API files were removed.

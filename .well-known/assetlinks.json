@@ -1,4 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {"namespace": "android_app", "package_name": "dev.kc.tango", "sha256_cert_fingerprints": ["5B:61:9F:C4:80:0A:08:A8:0E:67:EC:AD:AB:A8:46:71:1F:78:35:05:9D:33:6B:86:02:89:66:2E:D1:C7:F5:C1"]}
-}]
